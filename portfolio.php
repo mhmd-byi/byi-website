@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from kodesolution.com/html/2023/crotive-html/page-projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Jun 2023 14:08:25 GMT -->
 <head>
 <meta charset="utf-8">
 <title>Portfolio | Build Your Innovation</title>
@@ -94,25 +92,29 @@
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/14-and-9-Estate" class="lightbox-image"><img src="images/resource/14-and-9-Estate.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/14and9.png" class="lightbox-image"><img src="images/resource/14and9.png" alt=""></a></figure>
 								<div class="overlay-content">
 									<span class="cat">Showcase</span>
 									<h3 class="title"><a href="https://14and9estate.co.uk/">14 & 9 Esate</a></h3>
+									<a href="https://14and9estate.co.uk/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+			</div>
 			<div class="column col-xl-3 col-lg-6 col-md-12 filter showcase">
 					<!-- Project Block -->
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/JF-Cleaning-Services.png" class="lightbox-image"><img src="images/resource/JF-Cleaning-Services.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/jf.png" class="lightbox-image"><img src="images/resource/jf.png" alt=""></a></figure>
+								<a href="https://jfcleaning.co.uk/">
 								<div class="overlay-content">
 									<span class="cat">Showcase</span>
 									<h3 class="title"><a href="https://jfcleaning.co.uk/">JF Cleaning Uk</a></h3>
+									<a href="https://jfcleaning.co.uk/" class="visit-site-button">Visit Site</a>
 								</div>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -123,10 +125,11 @@
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/Plywala.png" class="lightbox-image"><img src="images/resource/Plywala.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/plywala.png" class="lightbox-image"><img src="images/resource/plywala.png" alt=""></a></figure>
 								<div class="overlay-content">
 									<span class="cat">Ecommerce</span>
 									<h3 class="title"><a href="https://plywalaindia.com/">Plywala</a></h3>
+									<a href="https://plywalaindia.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -139,10 +142,11 @@
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/Keelson-Consultancy-–-Marine-Technical-Management.png" class="lightbox-image"><img src="images/resource/Keelson-Consultancy-–-Marine-Technical-Management.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/keelson.png" class="lightbox-image"><img src="images/resource/keelson.png" alt=""></a></figure>
 								<div class="overlay-content">
 									<span class="cat">Showcase</span>
 									<h3 class="title"><a href="http://keelson.in/">Keelson</a></h3>
+									<a href="http://keelson.in/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -155,10 +159,11 @@
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/MM-Reshamwala.png" class="lightbox-image"><img src="images/resource/MM-Reshamwala.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/mmr.png" class="lightbox-image"><img src="images/resource/mmr.png" alt=""></a></figure>
 								<div class="overlay-content">
 									<span class="cat">Ecommerce</span>
 									<h3 class="title"><a href="https://mmreshamwala.com/">MM Resham Wala</a></h3>
+									<a href="https://mmreshamwala.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -171,10 +176,11 @@
 					<div class="project-block ">
 						<div class="inner-box">
 							<div class="image-box">
-								<figure class="image"><a href="images/resource/GuruKripa-Restaurant.png" class="lightbox-image"><img src="images/resource/GuruKripa-Restaurant.png" alt=""></a></figure>
+								<figure class="image"><a href="images/resource/gk.png" class="lightbox-image"><img src="images/resource/gk.png" alt=""></a></figure>
 								<div class="overlay-content">
 									<span class="cat">Ecommerce</span>
 									<h3 class="title"><a href="https://gurukriparestaurant.com/">Gurukripa</a></h3>
+									<a href="https://gurukriparestaurant.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -191,6 +197,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="fitnesslife.co.in">Fitness Life</a></h3>
+									<a href="fitnesslife.co.in" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -207,6 +214,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://amelkis1.webridgemoroc.com/">Amelkis-I</a></h3>
+									<a href="https://amelkis1.webridgemoroc.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -222,6 +230,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://lilium.webridgemoroc.com/">Lilium</a></h3>
+									<a href="https://lilium.webridgemoroc.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -237,6 +246,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://amelkis2.webridgemoroc.com/">Amelkis II</a></h3>
+									<a href="https://amelkis2.webridgemoroc.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -252,6 +262,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://webridgemoroc.com/">WeBridge Properties</a></h3>
+									<a href="https://webridgemoroc.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -267,6 +278,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://californiaviews.webridgemoroc.com/">California Views</a></h3>
+									<a href="https://californiaviews.webridgemoroc.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -282,6 +294,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://theexhibit.ae/">The Exhibit</a></h3>
+									<a href="https://theexhibit.ae/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -297,6 +310,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://rubaabughaida.com/">Ruba Abughaida</a></h3>
+									<a href="https://rubaabughaida.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -312,6 +326,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://nancyzabaneh.com/">Nancy Zabaneh</a></h3>
+									<a href="https://nancyzabaneh.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -327,6 +342,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://gyanherbals.com/">Gyan Herbals</a></h3>
+									<a href="https://gyanherbals.com/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -342,6 +358,7 @@
 								<div class="overlay-content">
 									<span class="cat">Show Case</span>
 									<h3 class="title"><a href="https://thesassyteaspoon.in/">The Sassy Teaspoon</a></h3>
+									<a href="https://thesassyteaspoon.in/" class="visit-site-button">Visit Site</a>
 								</div>
 							</div>
 						</div>
@@ -383,6 +400,4 @@
 <script src="js/script.js"></script>
 
 </body>
-
-<!-- Mirrored from kodesolution.com/html/2023/crotive-html/page-projects.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Jun 2023 14:08:25 GMT -->
 </html>

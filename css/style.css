@@ -38,7 +38,7 @@ License: copyright commercial
 @import url("animate.css");
 @import url("owl.css");
 @import url("swiper.min.css");
-@import url("jquery.fancybox.min.css");
+/* @import url("jquery.fancybox.min.css"); */
 @import url("jquery-ui.css");
 @import url("linear.css");
 @import url("select2.min.css");
@@ -4730,6 +4730,23 @@ Section Title
   opacity: 0.8;
   content: "";
 }
+.project-block .image-box .overlay-content .visit-site-button {
+  display: inline-block;
+  background-color: #005591;
+  color: #fff; 
+  padding: 5px 20px;
+  text-decoration: none;
+  /* border-radius: 5px; */
+  margin-top: 10px;
+  font-weight: bold;
+  z-index: 100;
+}
+
+.project-block .image-box .overlay-content .visit-site-button:hover {
+  background-color: #fe8f02;
+  color: #fff;
+}
+
 .project-block .image-box .overlay-content .cat {
   position: relative;
   display: inline-block;
